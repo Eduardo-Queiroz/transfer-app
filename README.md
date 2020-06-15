@@ -2,7 +2,7 @@
 
 ## Executando
 
-Para rodar o app (depois de ter rodado a instalação das depedências pelo (`yarn`):
+Para rodar o app (depois de ter rodado a instalação das depedências pelo `yarn`):
 Execute:
 `react-native start`
 
